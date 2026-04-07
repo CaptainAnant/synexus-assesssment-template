@@ -1,0 +1,12 @@
+{
+  "question_1": {
+    "text": "What is the primary purpose of a load balancer?",
+    "options": ["A. Encrypt data", "B. Distribute network traffic", "C. Store session tokens", "D. Compile code"],
+    "student_answer": null
+  },
+  "question_2": {
+    "text": "Which HTTP method is typically used to update an existing resource?",
+    "options": ["A. GET", "B. POST", "C. PUT", "D. DELETE"],
+    "student_answer": null
+  }
+}
